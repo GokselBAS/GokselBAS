@@ -1,10 +1,10 @@
  ![MasterHead](https://i.pinimg.com/564x/e9/14/46/e91446bc420d3089463c4095d47ea0ab.jpg)
-<h1 align="center">Hi 👋, I'm Doğuş Deniz</h1>
+<h1 align="center">Hi 👋, I'm Goksel BAS</h1>
 <h3 align="center">A passionate WEB developer from Turkey</h3>
 
 - 🔭 I’m currently working on **PHP**
 
-- 💬 Ask me about **JQuery,Php,Mysql**
+- 💬 Ask me about **JQuery,Php,Mysql,JS,C#**
 
 - 📫 How to reach me **gokselbas1997@gmail.com**
 
