@@ -1,6 +1,4 @@
-<h1 align="center">![a](https://github.com/GokselBAS/GokselBAS/assets/26814736/fcbd8239-4dd7-4204-af48-6c32964c6d75)</h1>
-
-
+![a align="center"](https://github.com/GokselBAS/GokselBAS/assets/26814736/fcbd8239-4dd7-4204-af48-6c32964c6d75)
 <h1 align="center">Hi 👋, I'm Goksel BAS</h1>
 <h3 align="center">A passionate WEB developer from Turkey</h3>
 
