@@ -1,4 +1,4 @@
-<h1>![a](https://github.com/GokselBAS/GokselBAS/assets/26814736/fcbd8239-4dd7-4204-af48-6c32964c6d75)</h1>
+<h1 align="center">![a](https://github.com/GokselBAS/GokselBAS/assets/26814736/fcbd8239-4dd7-4204-af48-6c32964c6d75)</h1>
 
 
 <h1 align="center">Hi 👋, I'm Goksel BAS</h1>
