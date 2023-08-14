@@ -1,4 +1,5 @@
- ![MasterHead](https://i.pinimg.com/564x/e9/14/46/e91446bc420d3089463c4095d47ea0ab.jpg)
+ ![MasterHead](![a](https://github.com/GokselBAS/GokselBAS/assets/26814736/64808b40-c99f-4cca-99e8-ef387ebea497)
+)
 <h1 align="center">Hi 👋, I'm Goksel BAS</h1>
 <h3 align="center">A passionate WEB developer from Turkey</h3>
 
