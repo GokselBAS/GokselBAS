@@ -13,7 +13,7 @@
 <a href="https://instagram.com/gokselbas1997" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="goksel.bas" height="30" width="40" /></a>
 </p>
 <p align="left">
-<a href="https://linkedin/in/gokselbas1997" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/1280px-LinkedIn_Logo.svg.png" alt="goksel.bas" height="30" width="40" /></a>
+<a href="https://linkedin/in/gokselbas" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/1280px-LinkedIn_Logo.svg.png" alt="goksel.bas" height="30" width="40" /></a>
 </p>
 
 
